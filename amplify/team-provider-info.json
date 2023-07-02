@@ -15,9 +15,6 @@
       "api": {
         "cssearch": {}
       },
-      "auth": {
-        "cssearch73556a45": {}
-      },
       "storage": {
         "cssearchcontentdb": {}
       }
