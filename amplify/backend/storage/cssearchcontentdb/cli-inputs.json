@@ -1,0 +1,14 @@
+{
+  "resourceName": "cssearchcontentdb",
+  "policyUUID": "04575bb6",
+  "bucketName": "cs-content-db",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
